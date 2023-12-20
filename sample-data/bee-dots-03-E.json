@@ -1,0 +1,59 @@
+{
+  "Columns": 15,
+  "Rows": 20,
+  "ColumnWidth": 1.0,
+  "RowHeight": 1.0,
+  "Palette": [
+    { "Name": "red", "Hex": "#eb7171" },
+    { "Name": "orange", "Hex": "#ffd6a5" },
+    { "Name": "yellow", "Hex": "#fdffb6" },
+    { "Name": "green", "Hex": "#caffbf" },
+    { "Name": "cyan", "Hex": "#9bf6ff" },
+    { "Name": "blue", "Hex": "#a0c4ff" },
+    { "Name": "purple", "Hex": "#bdb2ff" },
+    { "Name": "pink", "Hex": "#ffc6ff" }
+  ],
+  "DotSets": [
+    {
+      "Shape": { "Rule": "!triangle" },
+      "Colour": { "Rule": "random" },
+      "MinSize": 0.45,
+      "MaxSize": 0.45,
+      "MinJitter": -0.25,
+      "MaxJitter": 0.25,
+      "Points": [
+        [5, 5],
+        [5, 6],
+        [5, 7],
+        [5, 8],
+        [5, 9],
+        [5, 10],
+        [6, 10],
+        [7, 10],
+        [8, 10],
+        [9, 10],
+        [9, 5],
+        [8, 5],
+        [7, 5],
+        [6, 5],
+        [5, 11],
+        [5, 12],
+        [5, 13],
+        [5, 14],
+        [5, 15],
+        [6, 15],
+        [7, 15],
+        [8, 15],
+        [9, 15]
+      ]
+    }
+  ],
+  "Remainder": {
+    "Shape": { "Rule": "!triangle" },
+    "Colour": { "Rule": "random" },
+    "MinSize": 0.2,
+    "MaxSize": 0.25,
+    "MinJitter": -0.25,
+    "MaxJitter": 0.25
+  }
+}

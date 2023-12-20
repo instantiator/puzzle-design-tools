@@ -19,7 +19,7 @@ public class Generator
 
         foreach (var dotset in inputs.DotSets)
         {
-            var dotGroup = GenerateDotSet(dotset, inputs.ColumnWidth, inputs.RowHeight);
+            var dotGroup = GenerateDotSet(dotset, inputs.Palette, inputs.ColumnWidth, inputs.RowHeight);
             svg.Children.Add(dotGroup);
         }
         var remainderGroup = GenerateRemainder(inputs);
@@ -28,7 +28,7 @@ public class Generator
         return svg;
     }
 
-    public static SvgGroup GenerateDotSet(DotSet dotset, float columnWidth, float rowHeight)
+    public static SvgGroup GenerateDotSet(DotSet dotset, DotPalette palette, float columnWidth, float rowHeight)
     {
         var offsetX = columnWidth / 2;
         var offsetY = rowHeight / 2;
@@ -40,7 +40,7 @@ public class Generator
             var x = offsetX + point[0] * columnWidth + jx;
             var y = offsetY + point[1] * rowHeight + jy;
             var dot = dotset.Shape.AsSvg(x, y, dotset.MinSize, dotset.MaxSize);
-            dot.Fill = new SvgColourServer(ColorTranslator.FromHtml(dotset.Colour.AsHex));
+            dot.Fill = new SvgColourServer(ColorTranslator.FromHtml(dotset.Colour.AsHex(palette)));
             group.Children.Add(dot);
         }
         return group;
@@ -62,7 +62,7 @@ public class Generator
                     var x = offsetX + cx * inputs.ColumnWidth + jx;
                     var y = offsetY + cy * inputs.RowHeight + jy;
                     var dot = inputs.Remainder.Shape.AsSvg(x, y, inputs.Remainder.MinSize, inputs.Remainder.MaxSize);
-                    dot.Fill = new SvgColourServer(ColorTranslator.FromHtml(inputs.Remainder.Colour.AsHex));
+                    dot.Fill = new SvgColourServer(ColorTranslator.FromHtml(inputs.Remainder.Colour.AsHex(inputs.Palette)));
                     group.Children.Add(dot);
                 }
             }

@@ -1,3 +1,4 @@
+using System.Data;
 using System.Drawing;
 using System.Text.Json.Serialization;
 using Svg;
@@ -12,11 +13,20 @@ public class DotShape
         Circle, Square, Triangle, Random
     }
 
-    [JsonIgnore]
-    public KnownShape AsShape =>
-        Rule.Equals("random", StringComparison.OrdinalIgnoreCase)
-            ? GetRandomShape(new[] { KnownShape.Random })
-            : Enum.Parse<KnownShape>(Rule, true);
+    public KnownShape AsShape()
+    {
+        if (Rule.StartsWith("!"))
+        {
+            var exception = Enum.Parse<KnownShape>(Rule[1..], true);
+            return GetRandomShape([exception, KnownShape.Random]);
+        }
+        else
+        {
+            return Rule.Equals("random", StringComparison.OrdinalIgnoreCase)
+                ? GetRandomShape([KnownShape.Random])
+                : Enum.Parse<KnownShape>(Rule, true);
+        }
+    }
 
     public string Rule { get; set; } = null!;
 
@@ -29,7 +39,7 @@ public class DotShape
 
     public SvgPathBasedElement AsSvg(float x, float y, float minSize, float maxSize)
     {
-        return AsSvg(AsShape, x, y, minSize, maxSize);
+        return AsSvg(AsShape(), x, y, minSize, maxSize);
     }
 
     public static SvgPathBasedElement AsSvg(KnownShape shape, float x, float y, float minSize, float maxSize)

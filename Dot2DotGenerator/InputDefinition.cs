@@ -12,4 +12,6 @@ public class InputDefinition
 
     public List<DotSet> DotSets { get; set; } = new();
     public DotSet? Remainder { get; set; } = null;
+
+    public DotPalette Palette { get; set; } = new();
 }
