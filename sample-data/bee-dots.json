@@ -1,0 +1,30 @@
+{
+  "Columns": 21,
+  "Rows": 29,
+  "ColumnWidth": 1.0,
+  "RowHeight": 1.0,
+  "DotSets": [
+    {
+      "Shape": { "Rule": "random" },
+      "Colour": { "Rule": "red" },
+      "MinSize": 0.25,
+      "MaxSize": 0.4,
+      "MinJitter": -0.25,
+      "MaxJitter": 0.25,
+      "Points": [
+        [5, 5],
+        [5, 10],
+        [10, 10],
+        [10, 5]
+      ]
+    }
+  ],
+  "Remainder": {
+    "Shape": { "Rule": "random" },
+    "Colour": { "Rule": "!red" },
+    "MinSize": 0.25,
+    "MaxSize": 0.4,
+    "MinJitter": -0.25,
+    "MaxJitter": 0.25
+  }
+}
