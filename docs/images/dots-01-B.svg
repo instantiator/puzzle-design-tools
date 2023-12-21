@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="15" height="20" viewBox="0, 0, 15, 20">
+  <g>
+    <rect x="5.456064" y="5.427924" width="0.4147802" height="0.4147802" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="6.478083" y="5.573715" width="0.3337995" height="0.3337995" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <polygon points="7.411448,5.346604 7.715461,5.346604 7.563455,5.650617" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="8.462426" y="5.471385" width="0.3628418" height="0.3628418" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="5.552042" y="6.414685" width="0.382068" height="0.382068" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="9.428299" y="6.436865" width="0.3331958" height="0.3331958" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <circle cx="5.472782" cy="7.522896" r="0.1598428" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <circle cx="10.44248" cy="7.560292" r="0.206902" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <circle cx="5.446256" cy="8.411439" r="0.2072201" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <polygon points="10.40459,8.258828 10.78168,8.258828 10.59313,8.635917" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="5.424781" y="9.598507" width="0.3973156" height="0.3973156" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="9.511201" y="9.587019" width="0.3534371" height="0.3534371" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <polygon points="5.282265,10.37459 5.707786,10.37459 5.495026,10.80011" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="6.468938" y="10.47924" width="0.3207439" height="0.3207439" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <circle cx="7.533207" cy="10.58687" r="0.1921819" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <circle cx="8.542674" cy="10.49271" r="0.1601885" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="5.501279" y="11.41403" width="0.3056868" height="0.3056868" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="9.468565" y="11.59196" width="0.3671761" height="0.3671761" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <polygon points="5.244114,12.26491 5.649312,12.26491 5.446713,12.6701" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <polygon points="10.24675,12.36327 10.62396,12.36327 10.43535,12.74049" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="5.596859" y="13.50173" width="0.3677969" height="0.3677969" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <circle cx="10.52235" cy="13.47814" r="0.1812021" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <circle cx="5.572504" cy="14.44517" r="0.1856151" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <polygon points="10.19546,14.315 10.62957,14.315 10.41251,14.74911" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <circle cx="5.406147" cy="15.5623" r="0.2043424" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <polygon points="6.198222,15.25401 6.602618,15.25401 6.40042,15.65841" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <rect x="7.481695" y="15.56896" width="0.3824674" height="0.3824674" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <circle cx="8.450125" cy="15.5882" r="0.193857" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+    <polygon points="9.268704,15.36683 9.6825,15.36683 9.475602,15.78063" stroke-width="0.05" style="fill:#EB7171;stroke:black;" />
+  </g>
+  <g>
+    <circle cx="0.5115767" cy="0.4916024" r="0.2099858" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="0.4551813" y="1.54601" width="0.3895418" height="0.3895418" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="0.4725948" y="2.556551" width="0.3303141" height="0.3303141" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="0.5048403" y="3.419245" width="0.448464" height="0.448464" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="0.4230706,4.327466 0.7521047,4.327466 0.5875877,4.656499" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="0.5856444" y="5.472236" width="0.3499486" height="0.3499486" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="0.3606239,6.389348 0.7511297,6.389348 0.5558768,6.779854" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="0.465233" cy="7.558124" r="0.1653108" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="0.516524" y="8.455846" width="0.354522" height="0.354522" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="0.4535943" cy="9.42714" r="0.2173333" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <rect x="0.5972834" y="10.47697" width="0.3215478" height="0.3215478" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="0.4815992" y="11.59091" width="0.3697669" height="0.3697669" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="0.2840065,12.2415 0.7052246,12.2415 0.4946155,12.66272" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="0.5425432" cy="13.51104" r="0.1892751" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <polygon points="0.2806476,14.35825 0.6090033,14.35825 0.4448254,14.68661" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="0.571798" y="15.41629" width="0.3740815" height="0.3740815" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <rect x="0.4416931" y="16.48688" width="0.4362603" height="0.4362603" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="0.2941981,17.26676 0.7307125,17.26676 0.5124553,17.70327" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="0.3555318,18.24313 0.7369969,18.24313 0.5462644,18.62459" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="0.411622" cy="19.47739" r="0.1575596" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <circle cx="1.413338" cy="0.4431578" r="0.15592" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="1.463987" y="1.434324" width="0.318761" height="0.318761" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="1.504756" cy="2.526308" r="0.187297" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="1.497529" cy="3.533962" r="0.1608682" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <polygon points="1.251132,4.326981 1.626504,4.326981 1.438818,4.702353" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="1.463593" cy="5.461344" r="0.1766957" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="1.360236,6.328866 1.705531,6.328866 1.532884,6.67416" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="1.442873" cy="7.513336" r="0.1857681" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <circle cx="1.573575" cy="8.515314" r="0.2046767" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="1.492018" y="9.556906" width="0.4386399" height="0.4386399" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="1.409493" cy="10.41271" r="0.206852" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="1.427439" cy="11.52187" r="0.2196881" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="1.421418" y="12.49999" width="0.3231656" height="0.3231656" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <rect x="1.558665" y="13.41548" width="0.406211" height="0.406211" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="1.236693,14.40892 1.615602,14.40892 1.426147,14.78783" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="1.511754" y="15.40651" width="0.3241821" height="0.3241821" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="1.519773" cy="16.5984" r="0.2178133" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="1.291192,17.34392 1.624101,17.34392 1.457646,17.67683" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="1.476424" y="18.41027" width="0.3520281" height="0.3520281" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="1.55002" cy="19.42619" r="0.1810676" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="2.358209,0.2107349 2.777141,0.2107349 2.567675,0.6296667" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="2.556228" y="1.540263" width="0.4194961" height="0.4194961" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="2.585133" y="2.556834" width="0.393398" height="0.393398" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="2.40209" cy="3.477324" r="0.1672167" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <polygon points="2.182347,4.241596 2.630762,4.241596 2.406555,4.690011" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <polygon points="2.364079,5.234363 2.705263,5.234363 2.534671,5.575547" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="2.549139" y="6.433749" width="0.3496556" height="0.3496556" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="2.490113" cy="7.586436" r="0.2028784" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="2.518352" cy="8.563251" r="0.1969387" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <circle cx="2.450375" cy="9.438281" r="0.1951289" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="2.482361" y="10.45749" width="0.3831679" height="0.3831679" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="2.295569,11.29494 2.597613,11.29494 2.446591,11.59698" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="2.439363" y="12.47652" width="0.3508232" height="0.3508232" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="2.312645,13.33225 2.742066,13.33225 2.527356,13.76167" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="2.404346" cy="14.57938" r="0.222104" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <polygon points="2.314833,15.41971 2.657932,15.41971 2.486382,15.7628" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="2.368405,16.18672 2.806808,16.18672 2.587606,16.62512" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="2.490732" cy="17.57332" r="0.1504225" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="2.346218,18.30107 2.714354,18.30107 2.530286,18.66921" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="2.419813" y="19.48372" width="0.4059916" height="0.4059916" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="3.304113,0.2768689 3.722394,0.2768689 3.513254,0.6951498" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="3.471218" cy="1.521366" r="0.2158832" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="3.468841" cy="2.502621" r="0.1546197" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="3.523139" cy="3.487889" r="0.1827363" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="3.553579" y="4.567737" width="0.3925409" height="0.3925409" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="3.354194,5.387499 3.697725,5.387499 3.525959,5.73103" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="3.533996" cy="6.524861" r="0.2034108" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="3.439235" y="7.550117" width="0.3663167" height="0.3663167" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="3.215468,8.304979 3.59028,8.304979 3.402874,8.679792" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="3.508815" cy="9.526617" r="0.1727278" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="3.501519" y="10.4217" width="0.3566617" height="0.3566617" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="3.416654" y="11.59789" width="0.3781429" height="0.3781429" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="3.464172" cy="12.43301" r="0.1646901" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <polygon points="3.252086,13.19581 3.682366,13.19581 3.467226,13.62609" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="3.276305,14.32297 3.624225,14.32297 3.450265,14.67089" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="3.295877,15.26288 3.617152,15.26288 3.456514,15.58416" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="3.513873" y="16.53469" width="0.4093138" height="0.4093138" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="3.571923" cy="17.56588" r="0.216584" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <circle cx="3.431429" cy="18.40634" r="0.1700251" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="3.531663" y="19.54788" width="0.4075962" height="0.4075962" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <polygon points="4.21709,0.3107226 4.598587,0.3107226 4.407838,0.69222" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <circle cx="4.412063" cy="1.544898" r="0.2029638" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="4.43545" y="2.498924" width="0.4026235" height="0.4026235" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="4.432026" cy="3.440868" r="0.2094044" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="4.457694" cy="4.504748" r="0.2059199" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <circle cx="4.522977" cy="5.551419" r="0.1650112" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="4.484058" y="6.460431" width="0.3735061" height="0.3735061" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="4.467303" cy="7.599456" r="0.2203562" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="4.546338" cy="8.506584" r="0.173492" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="4.566432" y="9.556751" width="0.3732011" height="0.3732011" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="4.423443,10.24737 4.745564,10.24737 4.584503,10.56949" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="4.586903" cy="11.52555" r="0.2234579" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="4.492797" y="12.41055" width="0.4255992" height="0.4255992" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <rect x="4.517843" y="13.44913" width="0.3028909" height="0.3028909" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="4.529334" y="14.46726" width="0.3352905" height="0.3352905" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="4.502132" y="15.47266" width="0.4143068" height="0.4143068" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="4.428936" cy="16.58955" r="0.1727412" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="4.531075" y="17.52007" width="0.4092095" height="0.4092095" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="4.427613" cy="18.59493" r="0.2078689" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <circle cx="4.46882" cy="19.44429" r="0.1899719" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="5.452399" cy="0.5921522" r="0.1989733" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="5.557138" y="1.479875" width="0.4116036" height="0.4116036" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="5.574128" y="2.443291" width="0.3508612" height="0.3508612" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="5.316418,3.223825 5.684196,3.223825 5.500307,3.591602" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="5.372599,4.39317 5.762425,4.39317 5.567512,4.782998" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="5.367277,16.30761 5.795833,16.30761 5.581555,16.73617" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="5.21965,17.25811 5.599078,17.25811 5.409364,17.63754" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <rect x="5.535546" y="18.52254" width="0.3693323" height="0.3693323" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="5.332728,19.24408 5.667454,19.24408 5.500091,19.5788" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="6.22947,0.4110956 6.593829,0.4110956 6.411649,0.7754547" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="6.329577,1.323424 6.642529,1.323424 6.486053,1.636376" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <polygon points="6.305182,2.302567 6.635576,2.302567 6.470379,2.632962" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="6.519092" cy="3.468502" r="0.1914903" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="6.448774" y="4.59654" width="0.3389048" height="0.3389048" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="6.48298" cy="6.486274" r="0.1910975" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="6.471313" cy="7.470566" r="0.1805449" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="6.347702,8.248038 6.709575,8.248038 6.528638,8.609912" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="6.425846" cy="9.522925" r="0.1715789" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="6.239765,11.4043 6.584209,11.4043 6.411987,11.74874" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="6.563591" y="12.58179" width="0.339467" height="0.339467" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <circle cx="6.417264" cy="13.47982" r="0.2186004" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="6.376586,14.34972 6.823238,14.34972 6.599912,14.79637" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="6.438319" cy="16.56664" r="0.188853" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <polygon points="6.266939,17.2171 6.695933,17.2171 6.481436,17.6461" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="6.413534" y="18.52774" width="0.4497528" height="0.4497528" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="6.41041" y="19.52522" width="0.3407566" height="0.3407566" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="7.472589" y="0.574635" width="0.3421711" height="0.3421711" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <rect x="7.507245" y="1.446137" width="0.3259499" height="0.3259499" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="7.553018" y="2.442498" width="0.3474473" height="0.3474473" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="7.466405" y="3.525006" width="0.3928074" height="0.3928074" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="7.262965,4.256429 7.62359,4.256429 7.443277,4.617054" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="7.269317,6.354631 7.592733,6.354631 7.431025,6.678047" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="7.296645,7.258446 7.67295,7.258446 7.484797,7.634752" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="7.515004" cy="8.446723" r="0.1557531" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="7.551441" y="9.409979" width="0.4398952" height="0.4398952" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <rect x="7.479005" y="11.52069" width="0.430199" height="0.430199" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="7.578114" cy="12.53247" r="0.1679077" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="7.52731" cy="13.41343" r="0.1661472" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="7.393167,14.29142 7.770357,14.29142 7.581762,14.66861" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="7.462997" y="16.57649" width="0.3503162" height="0.3503162" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="7.522108" y="17.54919" width="0.3718802" height="0.3718802" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="7.477723" cy="18.55758" r="0.1657847" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <polygon points="7.279545,19.3027 7.676232,19.3027 7.477889,19.69939" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <circle cx="8.523772" cy="0.5491136" r="0.1813674" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="8.513889" cy="1.409752" r="0.2174417" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="8.574831" y="2.599898" width="0.4007042" height="0.4007042" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="8.2995,3.217696 8.709148,3.217696 8.504324,3.627344" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="8.408226,4.261819 8.720404,4.261819 8.564315,4.573996" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="8.589918" cy="6.534823" r="0.1514796" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="8.494034" cy="7.536709" r="0.1687367" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="8.586448" cy="8.566687" r="0.1561816" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="8.419315,9.433846 8.748636,9.433846 8.583976,9.763166" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="8.483264" cy="11.43936" r="0.1546667" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="8.553532" y="12.47421" width="0.3365708" height="0.3365708" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="8.55527" cy="13.40338" r="0.1775384" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="8.577901" y="14.45787" width="0.346659" height="0.346659" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="8.53813" cy="16.4356" r="0.1542774" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="8.567926" cy="17.4849" r="0.2046787" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="8.405033" y="18.42044" width="0.4298268" height="0.4298268" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="8.297746,19.30755 8.746936,19.30755 8.522341,19.75675" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="9.371556,0.3543045 9.685998,0.3543045 9.528777,0.6687469" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="9.569979" cy="1.450987" r="0.1673291" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <polygon points="9.289482,2.30918 9.66334,2.30918 9.476411,2.683038" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="9.416205,3.364659 9.763459,3.364659 9.589832,3.711913" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="9.4173,4.236806 9.760119,4.236806 9.58871,4.579626" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="9.314599,5.221383 9.733443,5.221383 9.524021,5.640227" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="9.547908" y="7.447132" width="0.3300305" height="0.3300305" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <polygon points="9.398771,8.290358 9.720945,8.290358 9.559858,8.612532" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <circle cx="9.551908" cy="10.44409" r="0.1848609" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <polygon points="9.209874,12.21023 9.617225,12.21023 9.413549,12.61758" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="9.457652" y="13.51545" width="0.3230268" height="0.3230268" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="9.48404" y="14.42877" width="0.4373729" height="0.4373729" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="9.497608" y="16.49397" width="0.4327741" height="0.4327741" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="9.457639" y="17.56063" width="0.3966081" height="0.3966081" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="9.284187,18.3795 9.616053,18.3795 9.45012,18.71137" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <polygon points="9.363997,19.36127 9.73747,19.36127 9.550734,19.73475" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="10.41422" y="0.420752" width="0.4165305" height="0.4165305" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="10.26541,1.34583 10.62065,1.34583 10.44303,1.701068" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="10.43348" y="2.430523" width="0.386981" height="0.386981" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="10.42544" y="3.591792" width="0.3151341" height="0.3151341" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="10.471" y="4.571038" width="0.4321883" height="0.4321883" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="10.23328,5.284595 10.58664,5.284595 10.40996,5.637952" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="10.47458" cy="6.499125" r="0.2138949" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="10.40852" cy="9.41935" r="0.2021292" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="10.54309" cy="10.41252" r="0.2201444" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="10.48014" cy="11.43435" r="0.2160045" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="10.50751" y="15.58719" width="0.4064477" height="0.4064477" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="10.40401,16.33952 10.78545,16.33952 10.59473,16.72095" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="10.53087" y="17.52831" width="0.4374481" height="0.4374481" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="10.38767,18.29696 10.74765,18.29696 10.56766,18.65693" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="10.50705" cy="19.44156" r="0.1577541" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="11.43291,0.4186336 11.76666,0.4186336 11.59978,0.7523919" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="11.35021,1.324744 11.75363,1.324744 11.55192,1.728165" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <polygon points="11.342,2.318936 11.69665,2.318936 11.51932,2.673594" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="11.525" cy="3.468106" r="0.1969599" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="11.27868,4.243981 11.65042,4.243981 11.46455,4.615723" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="11.54459" cy="5.435719" r="0.1716716" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="11.58839" y="6.581192" width="0.4337277" height="0.4337277" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <circle cx="11.51505" cy="7.570276" r="0.1806009" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="11.49235" cy="8.57278" r="0.1945259" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <circle cx="11.52096" cy="9.53363" r="0.2154539" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="11.47582" y="10.46066" width="0.3798026" height="0.3798026" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="11.57759" cy="11.48899" r="0.1634288" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="11.49954" cy="12.59362" r="0.2073817" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="11.59712" cy="13.4932" r="0.1924591" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="11.58745" y="14.41352" width="0.3581983" height="0.3581983" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="11.25263,15.26701 11.56993,15.26701 11.41128,15.58431" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="11.55636" cy="16.51084" r="0.1629235" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="11.57831" cy="17.56516" r="0.1546355" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="11.49864" y="18.44559" width="0.4348724" height="0.4348724" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="11.4515" y="19.52965" width="0.3870318" height="0.3870318" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <polygon points="12.38612,0.306271 12.74106,0.306271 12.56359,0.6612176" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="12.24072,1.335629 12.64783,1.335629 12.44428,1.742748" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <circle cx="12.51443" cy="2.599765" r="0.1780517" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="12.44103" y="3.469645" width="0.3089887" height="0.3089887" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="12.34712,4.396411 12.7197,4.396411 12.53341,4.768989" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="12.37931,5.198705 12.79954,5.198705 12.58942,5.618933" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="12.31801,6.310727 12.73057,6.310727 12.52429,6.723292" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="12.54614" y="7.526125" width="0.4161671" height="0.4161671" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="12.4264" cy="8.517421" r="0.181431" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="12.576" y="9.463059" width="0.4075068" height="0.4075068" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="12.30453,10.33795 12.72935,10.33795 12.51694,10.76277" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="12.26026,11.42125 12.59256,11.42125 12.42641,11.75356" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <rect x="12.54615" y="12.44592" width="0.3628687" height="0.3628687" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="12.59666" cy="13.58599" r="0.1736789" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="12.4386" y="14.54151" width="0.3978632" height="0.3978632" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="12.40467" y="15.43271" width="0.422963" height="0.422963" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <circle cx="12.54237" cy="16.5057" r="0.2244258" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <polygon points="12.29219,17.28513 12.61156,17.28513 12.45188,17.6045" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <circle cx="12.5355" cy="18.43963" r="0.1752443" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="12.4745" y="19.55072" width="0.3004971" height="0.3004971" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <circle cx="13.49845" cy="0.4865984" r="0.1937776" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="13.57395" y="1.539322" width="0.3725646" height="0.3725646" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="13.49519" y="2.588699" width="0.3771895" height="0.3771895" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="13.49616" cy="3.588821" r="0.1661107" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <rect x="13.40034" y="4.448683" width="0.3017459" height="0.3017459" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="13.41858,5.437999 13.72029,5.437999 13.56943,5.739715" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="13.48485" cy="6.447142" r="0.1634938" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="13.43922" y="7.494406" width="0.4293436" height="0.4293436" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <polygon points="13.18434,8.230038 13.62347,8.230038 13.4039,8.669167" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="13.59332" cy="9.447793" r="0.1865511" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="13.31891,10.31735 13.69583,10.31735 13.50737,10.69427" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="13.58203" cy="11.59772" r="0.1567341" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="13.4771" y="12.47046" width="0.3735332" height="0.3735332" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <circle cx="13.56844" cy="13.51959" r="0.1718752" stroke-width="0.05" style="fill:#FDFFB6;stroke:black;" />
+    <rect x="13.54336" y="14.54842" width="0.4080233" height="0.4080233" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <polygon points="13.43965,15.28937 13.75506,15.28937 13.59736,15.60477" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <circle cx="13.50815" cy="16.55523" r="0.2099439" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="13.51628" cy="17.43184" r="0.1941312" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="13.56431" y="18.50201" width="0.3867589" height="0.3867589" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="13.59572" y="19.49118" width="0.4140212" height="0.4140212" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <circle cx="14.48337" cy="0.576239" r="0.210515" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <polygon points="14.29207,1.218404 14.70682,1.218404 14.49945,1.63316" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="14.37122,2.263156 14.76863,2.263156 14.56992,2.660564" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="14.56841" y="3.537059" width="0.3629091" height="0.3629091" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="14.25797,4.367375 14.65876,4.367375 14.45836,4.768167" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="14.45277" cy="5.42098" r="0.1777892" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="14.24361,6.311831 14.63107,6.311831 14.43734,6.699289" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <rect x="14.40429" y="7.543449" width="0.3811191" height="0.3811191" stroke-width="0.05" style="fill:#FFD6A5;stroke:black;" />
+    <polygon points="14.38336,8.353937 14.7378,8.353937 14.56058,8.708378" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <polygon points="14.32852,9.261919 14.67596,9.261919 14.50224,9.609362" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <rect x="14.55225" y="10.52859" width="0.3324875" height="0.3324875" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <polygon points="14.32023,11.29447 14.65852,11.29447 14.48938,11.63276" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <rect x="14.413" y="12.41295" width="0.3634309" height="0.3634309" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="14.5195" y="13.53041" width="0.4161744" height="0.4161744" stroke-width="0.05" style="fill:#CAFFBF;stroke:black;" />
+    <circle cx="14.40687" cy="14.44481" r="0.1677539" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <rect x="14.52248" y="15.40662" width="0.3613442" height="0.3613442" stroke-width="0.05" style="fill:#FFC6FF;stroke:black;" />
+    <rect x="14.48338" y="16.48512" width="0.4260498" height="0.4260498" stroke-width="0.05" style="fill:#BDB2FF;stroke:black;" />
+    <circle cx="14.53169" cy="17.47277" r="0.1787854" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+    <circle cx="14.40994" cy="18.45011" r="0.1987322" stroke-width="0.05" style="fill:#9BF6FF;stroke:black;" />
+    <circle cx="14.46099" cy="19.40308" r="0.1574496" stroke-width="0.05" style="fill:#A0C4FF;stroke:black;" />
+  </g>
+</svg>
