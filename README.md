@@ -29,3 +29,9 @@ Take a look at `generate-sample-dot2dot.sh` for a usage example.
 | colours                        | shapes                         | sizes                          |
 | ------------------------------ | ------------------------------ | ------------------------------ |
 | ![](docs/images/dots-01-B.png) | ![](docs/images/dots-02-E.png) | ![](docs/images/dots-03-E.png) |
+
+## scripts
+
+| Script                   | Purpose                                          |
+| ------------------------ | ------------------------------------------------ |
+| `scripts/pdf-to-pngs.sh` | Converts a PDF into a PNG per page, with shadow. |
